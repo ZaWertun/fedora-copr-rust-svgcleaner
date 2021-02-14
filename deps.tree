@@ -1,0 +1,38 @@
+svgcleaner v0.9.6 (/home/zawertun/tmp/svgcleaner)
+├── clap v2.33.0                                            +
+│   ├── bitflags v1.2.1                                     +
+│   ├── textwrap v0.11.0                                    +
+│   │   └── unicode-width v0.1.6                            +
+│   └── unicode-width v0.1.6                                +
+├── error-chain v0.11.0                                     +
+├── fern v0.5.8                                             +
+│   └── log v0.4.8                                          +
+│       └── cfg-if v0.1.10                                  +
+├── log v0.4.8 (*)                                          +
+└── svgdom v0.10.5
+    ├── error-chain v0.11.0                                 +
+    ├── float-cmp v0.3.0                                    +
+    │   └── num v0.1.42                                     +
+    │       ├── num-integer v0.1.41                         +
+    │       │   └── num-traits v0.2.8                       +
+    │       │       [build-dependencies]
+    │       │       └── autocfg v0.1.7                      +
+    │       │   [build-dependencies]
+    │       │   └── autocfg v0.1.7                          +
+    │       ├── num-iter v0.1.39                            +
+    │       │   ├── num-integer v0.1.41 (*)                 +
+    │       │   └── num-traits v0.2.8 (*)                   +
+    │       │   [build-dependencies]
+    │       │   └── autocfg v0.1.7                          +
+    │       └── num-traits v0.2.8 (*)                       +
+    ├── log v0.4.8 (*)                                      +
+    ├── simplecss v0.1.0                                    +
+    └── svgparser v0.6.4                                    +
+        ├── error-chain v0.11.0                             +
+        ├── log v0.4.8 (*)                                  +
+        ├── phf v0.7.24                                     +
+        │   └── phf_shared v0.7.24                          +
+        │       └── siphasher v0.2.3                        +
+        └── xmlparser v0.1.2                                +
+            ├── error-chain v0.11.0                         +
+            └── log v0.4.8 (*)                              +
